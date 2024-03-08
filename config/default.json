@@ -1,0 +1,22 @@
+{
+  "port": 4004,
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "*****",
+  "db_name": "migrantWork",
+  "db_port": 5432,
+
+  "crypt_password": "Very_secret_key",
+  "iv": "10067066",
+
+  "access_key": "BuAccessUchunMaxfiyKey",
+  "refresh_key": "BuRefreshUchunMaxsusKey",
+  "access_time": "15m",
+  "refresh_time": "15d",
+  "refresh_ms": 25920000000,
+  "smtp_password": "********",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "*********",
+  "api_url": "http://localhost"
+}
